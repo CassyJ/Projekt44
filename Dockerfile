@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY . .
 
-CMD ["python","app_local_post.py"]
+CMD ["python","codetest.py"]
